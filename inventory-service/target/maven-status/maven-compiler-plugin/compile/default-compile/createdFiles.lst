@@ -1,0 +1,5 @@
+com\dbencotech\inventoryservice\controller\InventoryController.class
+com\dbencotech\inventoryservice\InventoryServiceApplication.class
+com\dbencotech\inventoryservice\repository\InventoryRepository.class
+com\dbencotech\inventoryservice\service\InventoryService.class
+com\dbencotech\inventoryservice\model\Inventory.class

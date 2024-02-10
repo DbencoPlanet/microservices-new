@@ -1,0 +1,10 @@
+com\dbencotech\productservice\controller\ProductController.class
+com\dbencotech\productservice\dto\ProductRequest.class
+com\dbencotech\productservice\model\Product$ProductBuilder.class
+com\dbencotech\productservice\repository\ProductRepository.class
+com\dbencotech\productservice\service\ProductService.class
+com\dbencotech\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\dbencotech\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\dbencotech\productservice\ProductServiceApplication.class
+com\dbencotech\productservice\model\Product.class
+com\dbencotech\productservice\dto\ProductResponse.class
